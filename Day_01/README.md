@@ -1,4 +1,3 @@
-## PARSONS SCHOOL OF DESIGN DESIGN AND TECHNOLOGY
 ## Bootcamp Web 2019
 ## Day 1: What is the internet
 
@@ -13,8 +12,7 @@
 ---
 
 #### Activity:
-
-
+---
 #### Reading or Tutorial:
-
+---
 #### Homework:
