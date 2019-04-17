@@ -25,11 +25,18 @@
 ---
 
 #### Weekly Schedule:
-* Day 1 – 7/29 – Intro
+* Day 1 – 7/29 – Intros, What is the internet?
 * Day 2 – 7/30 – Intro
 * Day 3 – 7/31 – Intro
 * Day 4 – 8/01 – Intro
 * Day 5 – 8/02 – Intro
-* Day 6 – 7/29/2019 – Intro
-* Day 7 – 7/29/2019 – Intro
-* Day 8 – 7/29/2019 – Intro
+* Day 6 – 8/05 – Intro
+* Day 7 – 8/06 – Intro
+* Day 8 – 8/07 – Intro
+* Day 9 – 8/08 – Intro
+* Day 10 – 8/09 – Intro
+* Day 11 – 8/12 – Intro
+* Day 12 – 8/13 – Intro
+* Day 13 – 8/14 – Intro
+* Day 14 – 8/15 – Intro
+* Day 15 – 8/16 – Intro
