@@ -3,16 +3,19 @@
 
 ---
 #### Topics covered: 
-* Understanding of the web as a creative medium
-* Critical understanding of the underlying protocols and systems that make the internet
-* Knowledge of github as a platform for version tracking, collaboration and publishing
-* Aesthetic explorations using fundamental web technologies: HTML, CSS and Javascript
-* Ability to integrate a variety of media and data sources
-* Understanding and experience of one frontend framework
+* Meeting students
+* History of the internet
+* protocols, IP, TCP/IP, browsers, Servers
+* Lo & Behold snippets
+* Text editor download: Sublime
+
 ---
 
 #### Activity:
+Get to know all students. Students renactment of TCP/IP protocols. Check installation of text editor. 
 ---
 #### Reading or Tutorial:
+* https://www.netflix.com/title/80097363
+* https://www.theatlantic.com/technologyarchive/2016/01/amazon-web-services-data-center/423147/
 ---
 #### Homework:
