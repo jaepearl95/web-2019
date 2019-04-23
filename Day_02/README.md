@@ -16,14 +16,14 @@
 ---
 
 #### Activity:
-Get to know all students. Students renactment of TCP/IP protocols. Check installation of text editor.
+Get to the basic of github. Students gets to know the basic function of github and gets to know how to use Desktop client or Command line.
 ---
 #### Lesson plan:
-4:00-4:15pm Discuss relevant existing work
-4:15-4:45pm Lecture
-4:45-5:15pm Live Set-up of the github page
-5:15-5:45pm In class work time
-5:45-6:00pm Homework assignment
+* 4:00-4:15pm Discuss relevant existing work
+* 4:15-4:45pm Lecture
+* 4:45-5:15pm Live Set-up of the github page
+* 5:15-5:45pm In class work time
+* 5:45-6:00pm Homework assignment
 ---
 #### Reading or Tutorial:
 * https://guides.github.com/
