@@ -13,7 +13,7 @@
 ---
 
 #### Activity:
-Get to know all students. Students renactment of TCP/IP protocols. Check installation of text editor. cd, mkdir, touch, terminal commands. 
+Get to know all students. Students renactment of TCP/IP protocols. Check installation of text editor. cd, mkdir, touch terminal commands. 
 ---
 #### Reading or Tutorial:
 * https://www.netflix.com/title/80097363
