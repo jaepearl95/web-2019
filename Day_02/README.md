@@ -16,7 +16,7 @@
 ---
 
 #### Activity:
-Get to the basic of github. Students gets to know the basic function of github and gets to know how to use Desktop client or Command line.
+Get to the basic of Github. Students gets to know the basic function of github and gets to know how to use Desktop client or Command line.
 ---
 #### Lesson plan:
 * 4:00-4:15pm Discuss relevant existing work
