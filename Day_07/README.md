@@ -38,5 +38,14 @@
 * If time allows
 
 ## Activity
-### Students create their own photo collage using different image types, using net art for inspiration.
+### Students embed at least one image hosted locally, and one image hosted on another server. Options to use video, and sound.
+
+## Homework
+### Students create a collage using netart as inspiration for what this collage can be.
+
+## Reading/Tutorials
+* https://www.w3schools.com/html/html_images.asp
+* https://www.w3schools.com/css/css_background.asp
+* https://www.w3schools.com/css/css3_images.asp
+* https://www.w3schools.com/css/css3_object-fit.asp
 
