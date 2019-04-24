@@ -38,10 +38,10 @@
 * If time allows
 
 ## Activity
-### Students embed at least one image hosted locally, and one image hosted on another server. Options to use video, and sound.
+#### Students embed at least one image hosted locally, and one image hosted on another server. Options to use video, and sound.
 
 ## Homework
-### Students create a collage using netart as inspiration for what this collage can be.
+#### Students create a collage using netart as inspiration for what this collage can be.
 
 ## Reading/Tutorials
 * https://www.w3schools.com/html/html_images.asp
