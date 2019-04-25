@@ -7,7 +7,7 @@
 * Review Homework 
 * Introduction to CSS 
 * Box-model, introduction to different units, positioning 
-* In class exercise of styling yesterdays story 
+* In class exercise of styling yesterday's story 
 
 ---
 #### Activity:
