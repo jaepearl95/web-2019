@@ -4,7 +4,7 @@
 ---
 #### Topics covered:
 
-* Discuss homework code academy HTML tutorial 
+* Discuss homework code academy HTML tutorial (TBD)
 * Introduction of HTML Basics and tags 
 * Show how to organize a folder on sublime and index.html 
 * Show how to link from one page to another 
