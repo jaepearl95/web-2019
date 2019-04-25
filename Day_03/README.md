@@ -25,4 +25,4 @@ Students create/write stories using HTML and test it with each other
 ---
 #### Homework:
 
-Retell and existing story or tell a new story using hypertext 
+Retell and existing story or tell a new story using hypertext and post on github
