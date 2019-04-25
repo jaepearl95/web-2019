@@ -21,3 +21,4 @@ Get to know all students. Students renactment of TCP/IP protocols. Check install
 * https://github.com/0nn0/terminal-mac-cheatsheet
 ---
 #### Homework:
+Register for github.
