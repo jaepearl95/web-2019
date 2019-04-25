@@ -10,11 +10,11 @@
 
 ---
 ####Lesson plan:
-4:00-4:15pm Lecture on Typography rules in web design
-4:15-4:30pm Show more examples and lecture on how to link to Google fonts 
-4:45-5:15pm Lecture on typography tags
-5:15-5:45pm In class activity
-5:45-6:00pm Homework assignment
+* 4:00-4:15pm Lecture on Typography rules in web design
+* 4:15-4:30pm Show more examples and lecture on how to link to Google fonts 
+* 4:45-5:15pm Lecture on typography tags
+* 5:15-5:45pm In class activity
+* 5:45-6:00pm Homework assignment
 
 ---
 #### Activity:

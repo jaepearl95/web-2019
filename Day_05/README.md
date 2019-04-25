@@ -12,11 +12,11 @@
 
 ---
 ####Lesson plan:
-4:00-4:15pm A recap of CSS Lesson 1 and an introduction to more references, time for downloading code examples
-4:15-4:30pm Lecture on more advanced tags  
-4:45-5:15pm Live coding
-5:15-5:45pm In class activity
-5:45-6:00pm Homework assignment
+* 4:00-4:15pm A recap of CSS Lesson 1 and an introduction to more references, time for downloading code examples
+* 4:15-4:30pm Lecture on more advanced tags  
+* 4:45-5:15pm Live coding
+* 5:15-5:45pm In class activity
+* 5:45-6:00pm Homework assignment
 
 ---
 #### Activity:
