@@ -1,0 +1,35 @@
+# Bootcamp 2019
+
+## Day 10: Introduction to JavaScript
+
+
+---
+#### Topics Covered
+* Overview: History of JavaScript 
+* Overview: What is JavaScript? Code Execution: How does it work?
+* HTML & JavaScript Integration
+* What is a variable? Types of Variables
+* Arrays
+* Iterations
+* For Loops
+
+
+#### Activity: Let's learn the basics of JavaScripts. Download the boilerplate code & tinker. We will review the logic of the iterations. Alter the logic of the code to create a new composition
+
+
+#### Lesson Plan:
+* 4:00-4:15pm Review homework
+* 4:15-4:45pm Lecture
+* 4:45-5:15pm Activity: Review Code Logic
+* 5:15-5:45pm  Activity: Play with the Code & Make a New composition
+* 5:45-6:00pm Homework assignment
+
+#### Reading or Tutorial:
+* Code Academy Introduction Sections 1-5 
+    https://www.codecademy.com/courses/introduction-to-javascript/lessons/introduction-to-javascript/exercises/types
+---
+
+
+
+
+
