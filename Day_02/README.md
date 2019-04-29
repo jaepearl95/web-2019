@@ -6,7 +6,6 @@
 * Introduce of basic github structure
 * Desktop client vs Command line.
 * Live demonstration of setting up a github page.
-* Command line basics.
 * Edit code locally & in the cloud.
 * Show common errors.
 * Show actual version control.
