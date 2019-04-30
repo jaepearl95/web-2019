@@ -11,19 +11,9 @@
 * Image file size is dictated by the pixel dimensions of the image.
 * SVG files do not suffer from the scaling issues associated with JPEG, GIF, MP4 formats.
 
-## Embedding Images in HTML v.s. CSS
+## Embedding Images in HTML 
 * html image sytnax
 * src and alt tags
-* css background image, repeat, position.
-
-## CSS for Images
-* border radius
-* thumbnail
-* responsive images
-* centering images
-* opacity
-* image filters
-* object fit
 
 ## File Structure (assets folder)
 * linking images in another folder
