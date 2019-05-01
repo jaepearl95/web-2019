@@ -34,8 +34,6 @@
 #### Students create a collage using netart as inspiration for what this collage can be.
 
 ## Reading/Tutorials
+* https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML
 * https://www.w3schools.com/html/html_images.asp
-* https://www.w3schools.com/css/css_background.asp
-* https://www.w3schools.com/css/css3_images.asp
-* https://www.w3schools.com/css/css3_object-fit.asp
 
