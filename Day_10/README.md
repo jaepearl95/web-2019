@@ -22,7 +22,7 @@
 * 4:00-4:15pm Review homework
 * 4:15-4:45pm Lecture
 * 4:45-5:15pm Activity: Build Sample Webpage using HTML/Javascript Integrations
-* 5:15-5:45pm  Challenge Activity: Play with the Code & Make a New composition
+* 5:15-5:45pm  Challenge Activity: Play with the Code & Make a new composition
 * 5:45-6:00pm Homework assignment
 
 #### Reading or Tutorial:
