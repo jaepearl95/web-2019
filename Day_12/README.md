@@ -13,7 +13,7 @@
 
 #### Activity: Guided exercise on how to set up and access data from Yoda API 
 
-#### Challenge Activity: Select your own API to pull Data from. Organize three categories of information
+#### Challenge Activity: Select your own API to pull data from. Organize three categories of information
 
 
 #### Lesson Plan:
