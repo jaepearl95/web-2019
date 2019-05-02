@@ -12,8 +12,8 @@
 
 ---
 #### Activity:
-
-Students create/write stories using HTML and test it with each other 
+Slide deck: https://docs.google.com/presentation/d/1FXoq_hi6dI5BQTcAlWOaGxDZ3HIJrNEQD82NR98zDGc/edit#slide=id.p1
+Students create/write stories using HTML and test it with each other
 
 ---
 
