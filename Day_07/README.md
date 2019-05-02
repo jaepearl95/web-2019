@@ -11,8 +11,8 @@
 
 ---
 #### Activity:
-Slide: TBD
-Start to style the story they created yesterday 
+* Slide: TBD
+* Start to style the story they created yesterday 
 ---
 
 #### Reading or Tutorial:
