@@ -5,7 +5,7 @@
 
 ---
 #### Topics Covered
-* User Input & Output
+* What is an API?
 * What is JSON Data?
 * What is an API? Why is it used?
 * How to pull from API
